@@ -5,7 +5,7 @@
 * [Pagina 2](https://dar-20.web.app)
 
 #### Cubos con threeJs
-* [Cubo sin background]("https://darlyn-d380b.web.app" target="_blank)
+* [Cubo sin background](https://darlyn-d380b.web.app)
 * [Cubo con background](https://cube-darlyn.web.app)
 
 #### Redes sociales:
