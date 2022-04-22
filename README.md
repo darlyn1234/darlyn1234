@@ -1,10 +1,15 @@
 #### hola, soy Darlyn, y no se que decir xd, sigueme en mis redes sociales que te mostrare a continuacion
-##### Redes sociales:
-* [GitHub](https://github.com/)
-* [Youtube](https://youtube.com/)
-* [Facebook](https://facebook.com/)
-* [Instagram](https://instagram.com/)
-* [WhatsApp](https://wa.me/51923513366)
+#### Visita mi pagina web en:
+
+* [Pagina 1](https://darlynweb-29.web.app)
+* [Pagina 2](https://dar-20.web.app)
+
+#### Redes sociales:
+* [GitHub](https://github.com/) 
+* [Youtube](https://youtube.com/) 
+* [Facebook](https://facebook.com/) 
+* [Instagram](https://instagram.com/) 
+* [WhatsApp](https://wa.me/51923513366) 
 ## Estadísticas de GitHub
 
 ![FxMods' github stats](https://github-readme-stats.vercel.app/api?username=darlyn1234&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
