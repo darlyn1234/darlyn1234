@@ -16,7 +16,7 @@
 * [WhatsApp](https://wa.me/51923513366) 
 
 <p align="center">
-<img src="https://github.com/darlyn1234/sofff3/blob/master/dararchivos/imagen/sofff.jpg" alt="jpg" width="300" height="300" center/>
+<img src="https://i.ibb.co/t35HfVx/ALONSOZING.jpg" alt="jpg" width="300" height="300" center/>
 </p>
 
 ## Estadísticas de GitHub
