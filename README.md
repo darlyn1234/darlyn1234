@@ -42,7 +42,6 @@
 
 ```rb
 • Edad : 18 años.
-• Soy Darlyn, y mi meta es ser programador en JavaScript, PHP, HTML C++, etc.
 • Soy un estudiante. xd
 • Cuento con 27 repositorios entre publicos y privados xd.
 ```
