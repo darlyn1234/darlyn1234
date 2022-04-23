@@ -39,3 +39,24 @@
 <a href="https://wa.me/51918303426" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TdLWDnV5_QOxd3-87LfcWACA5ICLxCdFjA&usqp=CAU" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
+
+```rb
+• Edad : 18 años.
+• Soy Darlyn, y mi meta es ser programador en JavaScript, PHP, HTML C++, etc.
+• Soy un estudiante. xd
+• Cuento con 27 repositorios entre publicos y privados xd.
+```
+___
+
+<p>Connect with me 👋</p>
+  <a href="https://instagram.com/darlin_zbig" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://youtu.be/3ymwOvzhwHs" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
+  <a href="https://wa.me/51918303426" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
+  </a>
+
+___
