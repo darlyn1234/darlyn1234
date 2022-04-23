@@ -26,16 +26,13 @@
 
 ![counter](https://komarev.com/ghpvc/?username=darlyn1234&style=flat-square)
 
-#### Cancion fav:
+#### `Cancion favorita:`
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/3ymwOvzhwHs?style=social) : https://youtu.be/3ymwOvzhwHs**
 
 ---
 #### Creado por [Darlyn](https://www.instagram.com/)
 
 * Aqui tienes mi numero poor cualquier duda o consulta
-* Sexo?
-* * XD
-
 <a href="https://wa.me/51918303426" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TdLWDnV5_QOxd3-87LfcWACA5ICLxCdFjA&usqp=CAU" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
@@ -47,7 +44,7 @@
 ```
 ___
 
-<p>Connect with me 👋</p>
+<p>Contactame aqui: </p>
   <a href="https://instagram.com/darlin_zbig" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
