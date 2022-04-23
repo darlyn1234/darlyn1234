@@ -44,7 +44,8 @@
 ---
 #### Creado por [Darlyn](https://www.instagram.com/)
 
-* Aqui tienes mi numero poor cualquier duda o consulta
+* Aqui tienes mi numero poor cualquier duda o consulta.
+* Pincha a la imagen de abajo.
 
 
 <a href="https://wa.me/51918303426" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TdLWDnV5_QOxd3-87LfcWACA5ICLxCdFjA&usqp=CAU" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
@@ -55,6 +56,7 @@
 • Edad : 18 años.
 • Soy un estudiante. xd
 • Cuento con 27 repositorios entre publicos y privados xd.
+Fan de las gomas xd
 ```
 ___
 
