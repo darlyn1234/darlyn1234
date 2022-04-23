@@ -1,4 +1,4 @@
-#### hola, soy Darlyn, y no se que decir xd, sigueme en mis redes sociales que te mostrare a continuacion y visita mis paginas web, gracias. xd
+#### hola, soy Darlyn, y no se que decir xd, sigueme en mis redes sociales que te mostrare a continuacion y visita mi pagina web, gracias. xd
 #### Visita mi pagina web:
 
 * [Pagina 1](https://darlynweb-29.web.app)
