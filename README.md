@@ -57,7 +57,7 @@
 • Soy un estudiante. xd
 • Cuento con 27 repositorios entre publicos y privados xd.
 Fan de las gomas xd
-JavaScrip, HTML, CSS, PHP,  Python, C++, NodeJs, c#, Java, R, 
+JavaScrip, HTML, CSS, PHP,  Python, C++, NodeJs, c#, Java, R, SCSS
 ```
 ___
 
