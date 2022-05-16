@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
@@ -37,6 +38,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlyn1234&theme=chartreuse-dark&layout=compact)](https://github.com/darlyn1234)
 
 ![counter](https://komarev.com/ghpvc/?username=darlyn1234&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darlyn1234&" alt="darlyn" /></p>
+
 
 #### `Cancion favorita:`
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/3ymwOvzhwHs?style=social) : https://youtu.be/3ymwOvzhwHs**
