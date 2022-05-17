@@ -14,12 +14,8 @@
 #### hola, soy Darlyn, y no se que decir xd, sigueme en mis redes sociales que te mostrare a continuacion y visita mi pagina web, gracias. xd
 #### Visita mi pagina web:
 
-* [Pagina 1](https://darlynweb-29.web.app)
-* [Pagina 2](https://dar-20.web.app)
-
-#### Cubos con threeJs
-* [Cubo sin background](https://darlyn-d380b.web.app)
-* [Cubo con background](https://cube-darlyn.web.app)
+* [Pagina 1](https://appweb-darlyn.vercel.app)
+* [Pagina 2](https://potafolio-darlyn.vercel.app)
 
 #### Redes sociales:
 * [GitHub](https://github.com/) 
