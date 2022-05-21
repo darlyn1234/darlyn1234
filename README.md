@@ -24,9 +24,10 @@
 
 <p align="center">
 
-  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/track/3AkdSFo7quCZ781KCqNK0T?si=be2ce2e9196d4a8e_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 
 </p>
+
 
 
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
@@ -42,12 +43,6 @@
 * [Pagina 1](https://appweb-darlyn.vercel.app)
 * [Pagina 2](https://potafolio-darlyn.vercel.app)
 
-#### Redes sociales:
-* [GitHub](https://github.com/) 
-* [Youtube](https://youtube.com/) 
-* [Facebook](https://facebook.com/) 
-* [Instagram](https://instagram.com/) 
-* [WhatsApp](https://wa.me/51923513366) 
 
 <p align="center">
 <img src="https://i.ibb.co/t35HfVx/ALONSOZING.jpg" alt="jpg" width="300" height="300" center/>
