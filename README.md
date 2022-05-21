@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
  </p>
  
+![counter](https://komarev.com/ghpvc/?username=darlyn1234&style=flat-square)
+
  ---
  
 <br>
