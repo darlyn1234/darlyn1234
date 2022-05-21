@@ -3,6 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
 
+<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn%20y%20solo%20soy%20un%20programador%20novato,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://camo.githubusercontent.com/e2b3a573ee340cb7b3ee273b5ac7a680650f5ef9bb9b26abdb2628510cccbbb4/68747470733a2f2f692e6962622e636f2f36797136747a622f776562622e6a7067&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
+
+
 ## ![VHtear](https://vhtear.com/static/assets/img/brand/favicon.ico) DARLYN [GITHUB]
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
 
