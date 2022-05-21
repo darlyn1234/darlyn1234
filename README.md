@@ -3,10 +3,30 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
 
-<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn%20y%20solo%20soy%20un%20programador%20novato,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://camo.githubusercontent.com/e2b3a573ee340cb7b3ee273b5ac7a680650f5ef9bb9b26abdb2628510cccbbb4/68747470733a2f2f692e6962622e636f2f36797136747a622f776562622e6a7067&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
+<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn,%20soy%20un%20programador%20novato,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://i.ibb.co/42TPj2M/Sagrada-Familia-Zing-Darlyn.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
 
 
-## ![VHtear](https://vhtear.com/static/assets/img/brand/favicon.ico) DARLYN [GITHUB]
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+ </p>
+ 
+ ---
+ 
+<br>
+<a align="center" href="https://github.com/darlyn1234/">
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
+
+
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
 
 ---
