@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
@@ -92,3 +91,8 @@ ___
   </a>
 
 ___
+  
+
+## Repo Stats 📝
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl-bot&theme=dark)
