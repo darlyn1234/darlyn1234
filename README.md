@@ -120,8 +120,14 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Darlyn uh">
   </a>
 </details>
-  
-  
-  
+
+---
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/darlyn1234)
+
+</details> 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
