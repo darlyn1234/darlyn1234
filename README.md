@@ -112,8 +112,8 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl-bot">
    <a href="https://github.com/darlyn1234/darl2-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl2-bot">
-   <a href="https://github.com/darlyn1234/darlyn1234">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=Darlyn uh">
+   <a href="https://github.com/darlyn1234/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=horario-darlyn.github.io">
   </a>
 </details>
 
