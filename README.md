@@ -51,11 +51,6 @@
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
 
 ---
-
-##### Si tiene un `problema`, puede comunicarse con [Darlyn](https://wa.me/51918303426)
-
----
-#### hola, soy Darlyn, y no se que decir xd, sigueme en mis redes sociales que te mostrare a continuacion y visita mi pagina web, gracias. xd
 #### Visita mi pagina web:
 
 * [Pagina 1](https://appweb-darlyn.vercel.app)
@@ -114,5 +109,19 @@ ___
 
 ## Repo Stats 📝
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl2-bot&theme=dark)
+### What is this ?
+<details>
+   <summary>&#127942 <b>My Jobless Project</summary>
+   <a href="https://github.com/darlyn1234/darl-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=darl-bot">
+   <a href="https://github.com/darlyn1234/darl2-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kokoronationz&repo=darl2-bot">
+   <a href="https://github.com/darlyn1234/darlyn1234">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Darlyn uh">
+  </a>
+</details>
+  
+  
+  
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
