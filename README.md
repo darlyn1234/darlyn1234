@@ -10,7 +10,26 @@
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
  </p>
- 
+  <details>
+  <summary><strong>Bot con Baileys V4</strong></summary>
+
+  - Instalacion de darl2-bot.
+  - Peso del archivo `43.07 MB`.
+
+  ```rb
+- pkg update && pkg upgrade
+- pkg install git
+- pkg install nodejs
+- pkg install ffmpeg
+- pkg install wget
+- pkg install python
+- git clone https://github.com/darlyn1234/darl2-bot
+- cd darl2-bot
+- npm install
+- npm start
+```
+</details>
+
 ![counter](https://komarev.com/ghpvc/?username=darlyn1234&style=flat-square)
 
  ---
@@ -96,3 +115,4 @@ ___
 ## Repo Stats 📝
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl2-bot&theme=dark)
