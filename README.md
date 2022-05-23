@@ -104,30 +104,21 @@ ___
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 
-___
-  
+## Repositorios
 
-## Repo Stats 📝
-
-### What is this ?
 <details>
    <summary>&#127942 <b>My Jobless Project</summary>
    <a href="https://github.com/darlyn1234/darl-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=darl-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl-bot">
    <a href="https://github.com/darlyn1234/darl2-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kokoronationz&repo=darl2-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=darl2-bot">
    <a href="https://github.com/darlyn1234/darlyn1234">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Darlyn uh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=Darlyn uh">
   </a>
 </details>
 
----
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+<summary><b>GitHub Actividad</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/darlyn1234)
-
-</details> 
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
