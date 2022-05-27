@@ -51,10 +51,12 @@
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
 
 ---
-#### Visita mi pagina web:
+## 👀 My Portfolio
 
-* [Pagina 1](https://appweb-darlyn.vercel.app)
-* [Pagina 2](https://potafolio-darlyn.vercel.app)
+<p align="center">
+	<a href="https://appweb-darlyn.vercel.app/"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
+</p>
+
 
 
 <p align="center">
