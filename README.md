@@ -54,10 +54,14 @@
 ## 👀 My Portfolio
 
 <p align="center">
-	<a href="https://appweb-darlyn.vercel.app/"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
+	<a href="https://appweb-darlyn.vercel.app"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
+	</p>
+
+<p align="center">
+	<a href="https://potafolio-darlyn.vercel.app"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
 </p>
 
-
+---
 
 <p align="center">
 <img src="https://i.ibb.co/t35HfVx/ALONSOZING.jpg" alt="jpg" width="300" height="300" center/>
