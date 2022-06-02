@@ -1,4 +1,4 @@
-<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="" width="100%"   />
+<img src="https://github.com/darlyn1234/darlyn1234/blob/main/Darlyn_line_bicolor.png?raw=true" alt="" width="100%"   />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
@@ -165,10 +165,13 @@ ___
   </a>
 </details>
 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
+<img src="https://github.com/darlyn1234/darlyn1234/blob/main/Darlyn_line_bicolor.png?raw=true" alt="" width="100%"   /> 
+	  
 <summary><b>GitHub Actividad</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/darlyn1234)
 	   
-<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="" width="100%"   />
+<img src="https://github.com/darlyn1234/darlyn1234/blob/main/Darlyn_line_bicolor.png?raw=true" alt="" width="100%"   />
