@@ -1,3 +1,5 @@
+<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="" width="100%"   />
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
@@ -168,3 +170,5 @@ ___
 <summary><b>GitHub Actividad</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/darlyn1234)
+	   
+<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="" width="100%"   />
