@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
 
-<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn,%20soy%20un%20programador%20novato,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://i.ibb.co/ZcPLKgK/darlyn-profile-programacion.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
+<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://i.ibb.co/ZcPLKgK/darlyn-profile-programacion.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
 
 
 <p align="center">
