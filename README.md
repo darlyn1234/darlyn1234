@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<>+Bienvenido,+soy+Darlyn+<>" />
 </p>
 
-<p align="center"> <a href="https://instagram.com/darling_zbig"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://i.ibb.co/ZcPLKgK/darlyn-profile-programacion.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darling_zbig&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
+<p align="center"> <a href="https://instagram.com/darlyn"><img align="center" src="https://cardivo.vercel.app/api?name=「 Darlyn1234 」&description=Hola,%20soy%20Darlyn,%20encantado%20de%20conocerte%20%F0%9F%91%8B&image=https://i.ibb.co/ZcPLKgK/darlyn-profile-programacion.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=darlyn&github=darlyn1234&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
 
 
 <p align="center">
@@ -53,20 +53,9 @@
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/darlyn1234/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/whatsapp-Darlynuh-1bacbc.svg)](https://wa.me/51918303426) <br><br>
 
 ---
-## 👀 My Portfolio
 
 <p align="center">
-	<a href="https://appweb-darlyn.vercel.app"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
-	</p>
-
-<p align="center">
-	<a href="https://potafolio-darlyn.vercel.app"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="LeetCode"  width="81px" height="81px"/></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://i.ibb.co/t35HfVx/ALONSOZING.jpg" alt="jpg" width="300" height="300" center/>
+<img src="https://i.pinimg.com/564x/30/25/24/302524c74a47f00a0ac93c732b2a0a29.jpg" alt="jpg" width="300" height="300" center/>
 </p>
 
 ## Estadísticas de GitHub
@@ -134,20 +123,6 @@ ___
 ## Get to know me!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
-
-
-	
-
-<p>Contactame aqui: </p>
-  <a href="https://instagram.com/darlin_zbig" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://youtu.be/3ymwOvzhwHs" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
-  </a>
-  <a href="https://wa.me/51918303426" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
-  </a>
 
 ## Repositorios
 
