@@ -61,21 +61,11 @@
 • Soy un estudiante. xd
 
 ```
+
 ## Get to know me!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
 
-## Repositorios
-
-<details>
-   <summary>&#127942 <b>My Jobless Project</summary>
-   <a href="https://github.com/darlyn1234/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlyn1234&repo=horario-darlyn.github.io">
-  </a>
-</details>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darlyn1234&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 <img src="https://github.com/darlyn1234/darlyn1234/blob/main/Darlyn_line_bicolor.png?raw=true" alt="" width="100%"   /> 
 	  
