@@ -51,11 +51,6 @@
 #### `Cancion favorita:`
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/3ymwOvzhwHs?style=social) : https://youtu.be/3ymwOvzhwHs**
 
----
-
-<a href="https://github.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TdLWDnV5_QOxd3-87LfcWACA5ICLxCdFjA&usqp=CAU" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
 
 ```rb
 • I dont know
