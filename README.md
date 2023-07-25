@@ -58,7 +58,7 @@
 ---
 
 ```rb
-• Soy un estudiante. xd
+• I dont know
 
 ```
 
