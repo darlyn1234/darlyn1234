@@ -12,8 +12,8 @@
 <a href="https://api.delirius.store/">
   <img src="https://img.shields.io/badge/-API-36BCF7?style=flat-square&logo=fastapi&logoColor=white" />
 </a>
-<a href="https://www.delirius.store/gallery?type=image&sort=true">
-  <img src="https://img.shields.io/badge/-Gallery-E91E63?style=flat-square&logo=unsplash&logoColor=white" />
+<a href="https://s.delirius.site">
+  <img src="https://img.shields.io/badge/-Files-E91E63?style=flat-square&logo=unsplash&logoColor=white" />
 </a>
 </p>
 
